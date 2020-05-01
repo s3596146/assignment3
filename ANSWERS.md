@@ -1,4 +1,3 @@
-# assignment3
 #1
 No we can not implement a getPassangers() method in the Flight Class, cause we have no detials of Passangers.
 
